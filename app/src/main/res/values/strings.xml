@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KAMUS</string>
+    <string name="app_first_run">First Run!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="english_indonesia">Eng - ind</string>
+    <string name="indonesia_english">Ind - Eng</string>
+
+    <string name="translate">Terjemahan</string>
+
+    <string name="share">Bagikan</string>
+
+    <string name="search_by_meaning">cari arti kata</string>
+
+    <string name="first_load">Sistem akan meload data untuk pertama kali\nHarap menunggu</string>
+</resources>
